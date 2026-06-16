@@ -7,7 +7,7 @@ export default function Home() {
     <main style={{ minHeight: "100vh", background: "#020617", color: "#fff", padding: "24px" }}>
       <h1>QalbPlayer Test</h1>
       <QalbPlayer
-        url="https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        url="https://youtube.com/shorts/2SokaJ-4YjU?si=2WnRSOnQsQIsFUKE"
         mode="video"
         autoplay={false}
       />
